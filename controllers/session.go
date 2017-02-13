@@ -3,7 +3,7 @@ package controllers
 import (
   "fmt"
   "github.com/gin-gonic/gin"
-  "github.com/tricepa/go-react-chat/models"
+  "github.com/tricepa/gochat/models"
   "github.com/olahol/melody"
   "database/sql"
 )

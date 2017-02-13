@@ -2,7 +2,7 @@ package controllers
 
 import (
   "github.com/gin-gonic/gin"
-  "github.com/tricepa/go-react-chat/models"
+  "github.com/tricepa/gochat/models"
 )
 
 func GetAllMessages(c *gin.Context) {

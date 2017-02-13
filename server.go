@@ -7,8 +7,8 @@ import (
 	"os"
 	"github.com/gin-gonic/gin"
 	"github.com/olahol/melody"
-	"github.com/tricepa/go-react-chat/controllers"
-	"github.com/tricepa/go-react-chat/models"
+	"github.com/tricepa/gochat/controllers"
+	"github.com/tricepa/gochat/models"
 )
 
 func main() {
